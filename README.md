@@ -1,7 +1,10 @@
 LIT-Canvas-Files
 ================
 
-LIT is Western Libraries' research tutorial. These files are the Canvas LMS course files. Each course file includes modules that link to the lessons (on the LIT website) and quizzes.
+LIT is Western Libraries' research tutorial. These files are Canvas LMS course files. The course file includes modules that link to the lessons on the LIT website and quizzes. 
 
 
-This repository contains three versions of Canvas courses. One file is LIT, all six lessons and six quizzes. One file is Academic Integrity, which is the last LIT lesson and includes one lesson and one quiz. The third file contains both LIT and Academic Integrity, as modules. 
+LIT is made up of six lessons and six quizzes. To use this in your Canvas course, download the file, then import into your Canvas course. In Canvas you may select elements to import or import everything. Be sure to include the two image files, they are used in one of the quizzes, specifically the OneSearch quiz.
+
+
+
